@@ -3,7 +3,7 @@
 
 ![kkvyse.gif](https://s2.ax1x.com/2019/01/22/kkvyse.gif)
 
-![](https://img.shields.io/badge/JDK-1.6-brightgreen.svg)![](https://img.shields.io/badge/MyEclipse-10-blue.svg)
+![](https://img.shields.io/badge/JDK-1.6-brightgreen.svg) ![](https://img.shields.io/badge/MyEclipse-10-blue.svg)
 
 ### 使用说明
 
