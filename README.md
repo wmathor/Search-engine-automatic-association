@@ -1,7 +1,7 @@
 # JSP-AJAX-Trie-实现搜索引擎自动联想
 ### 效果图
 
-![kkvyse.gif](https://s2.ax1x.com/2019/01/22/kkvyse.gif)
+![](https://s2.ax1x.com/2019/01/23/kAUDET.gif)
 
 ![](https://img.shields.io/badge/JDK-1.6-brightgreen.svg) ![](https://img.shields.io/badge/MyEclipse-10-blue.svg)
 
