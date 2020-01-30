@@ -1,7 +1,7 @@
 # JSP-AJAX-Trie-实现搜索引擎自动联想
 B站视频讲解：[av69290072](https://www.bilibili.com/video/av69290072)
 
-在线预览地址：[http://trie.wmathor.com/AJAX](http://trie.wmathor.com/AJAX)
+在线预览地址：[http://trie.wmathor.com/AJAX](http://trie.wmathor.com/AJAX)（还没挂，仍然可以访问）
 ### 效果图
 
 ![](https://s2.ax1x.com/2019/01/23/kAUDET.gif)
