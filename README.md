@@ -4,9 +4,9 @@ B站视频讲解：[av69290072](https://www.bilibili.com/video/av69290072)
 在线预览地址：[http://trie.wmathor.com/AJAX](http://trie.wmathor.com/AJAX)
 ### 效果图
 
-![](https://s2.ax1x.com/2019/01/23/kAUDET.gif)
+![](https://i.postimg.cc/tJ64SBHn/image.gif)
 
-![](https://img.shields.io/badge/JDK-1.6-brightgreen.svg) ![](https://img.shields.io/badge/MyEclipse-10-blue.svg)![](https://img.shields.io/badge/MySQL-5.6.30-orange)
+![](https://img.shields.io/badge/JDK-1.6-brightgreen.svg) ![](https://img.shields.io/badge/MyEclipse-10-blue.svg) ![](https://img.shields.io/badge/MySQL-5.6.30-orange)
 
 ### 使用说明
 
