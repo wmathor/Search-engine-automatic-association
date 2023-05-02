@@ -1,0 +1,456 @@
+<Beans>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.ibm.as400.access.AS400JDBCDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-50</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>JTOpen(AS/400)</name>
+        <url>jdbc:as400://&lt;host_name&gt;/&lt;default-schema&gt;;&lt;properties&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>cubrid.jdbc.driver.CUBRIDDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-51</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>CUBRID JDBC Driver</name>
+        <url>jdbc:cubrid:&lt;hostname&gt;:33000:&lt;dbname&gt;:&lt;username&gt;:&lt;password&gt;:</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.apache.derby.jdbc.ClientDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-2efbd59d:187dbaa2982:-7fd4</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true">
+            <Bean Class="net.sourceforge.squirrel_sql.fw.util.beanwrapper.StringWrapper">
+                <string>C:\Users\wang\.myeclipse\libs\derby_10.10.2.0\derbyclient.jar</string>
+            </Bean>
+        </jarFileNames>
+        <name>MyEclipse Derby</name>
+        <url>jdbc:derby://&lt;host&gt;:&lt;port&gt;/&lt;db&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.apache.derby.jdbc.EmbeddedDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-30</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Apache Derby Embedded</name>
+        <url>jdbc:derby:&lt;database&gt;[;create=true]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.nuodb.jdbc.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-53</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>NuoDB</name>
+        <url>jdbc:com.nuodb://&lt;server&gt;/test</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.apache.derby.jdbc.ClientDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-31</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Apache Derby Client</name>
+        <url>jdbc:derby://&lt;server&gt;[:&lt;port&gt;]/&lt;databaseName&gt;[;&lt;URL attribute&gt;=&lt;value&gt;]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.ingres.jdbc.IngresDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-76</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Actian</name>
+        <url>jdbc:ingres://&lt;server_name&gt;:II7/&lt;database_name&gt;;select_loop=on</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>COM.ibm.db2.jdbc.net.DB2Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-32</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>IBM DB2 Net Driver</name>
+        <url>jdbc:db2://&lt;server&gt;:&lt;6789&gt;/&lt;db-name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.elasticsearch.xpack.sql.jdbc.EsDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-77</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Elasticsearch</name>
+        <url>jdbc:es://&lt;server_name&gt;:9200/?timezone=UTC</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.h2.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-33</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>H2 for Server and Embedded</name>
+        <url>jdbc:h2:[tcp://&lt;server&gt;[:&lt;9092&gt;]]/&lt;db-name or filepath&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.microsoft.sqlserver.jdbc.SQLServerDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-11</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Microsoft MSSQL Server JDBC Driver</name>
+        <url>jdbc:sqlserver://&lt;server_name&gt;:1433;databaseName=&lt;db_name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.intersystems.jdbc.IRISDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-78</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>InterSystems IRIS</name>
+        <url>jdbc:IRIS://&lt;host&gt;:&lt;1972&gt;/&lt;database&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.mimer.jdbc.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-12</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Mimer SQL</name>
+        <url>jdbc:mimer:[//[&lt;user&gt;[:&lt;password&gt;]@]&lt;server&gt;[:&lt;1360&gt;]][/&lt;dbname&gt;][property-list]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.h2.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-35</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>H2 In-Memory</name>
+        <url>jdbc:h2:mem:[&lt;db-name&gt;]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>jdbc.FrontBase.FBJDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-36</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>FrontBase</name>
+        <url>jdbc:FrontBase://&lt;server&gt;/&lt;db-name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>unity.jdbc.UnityDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-59</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>UnityJDBC MultiSource Virtualization</name>
+        <url>jdbc:unity://virtual</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.internetcds.jdbc.tds.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-16</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>jTDS</name>
+        <url>jdbc:jtds:sqlserver://&lt;hostname&gt;[:&lt;4100&gt;]/&lt;dbname&gt;[;&lt;property&gt;=&lt;value&gt;[;...]]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.hsqldb.jdbcDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-18</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>HSQLDB Server</name>
+        <url>jdbc:hsqldb:hsql://[&lt;server&gt;[:&lt;9001&gt;]]/&lt;db-name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>sun.jdbc.odbc.JdbcOdbcDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-1</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>JDBC ODBC Bridge</name>
+        <url>jdbc:odbc:&lt;alias&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>oracle.jdbc.driver.OracleDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-2</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Oracle OCI Driver</name>
+        <url>jdbc:oracle:oci8:@&lt;database_name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>interbase.interclient.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-3</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>InterClient</name>
+        <url>jdbc:interbase://&lt;server&gt;/&lt;full_db_path&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>net.starschema.clouddb.jdbc.BQDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-60</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Starschema BigQuery JDBC</name>
+        <url>jdbc:BQDriver:projectid(&lt;urlencoded&gt;)?withServiceAccount=false</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>oracle.jdbc.driver.OracleDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-4</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Oracle Thin Driver</name>
+        <url>jdbc:oracle:thin:@&lt;server&gt;[:&lt;1521&gt;]:&lt;database_name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.mariadb.jdbc.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-61</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>MariaDB Driver for MySQL and MariaDB</name>
+        <url>jdbc:mysql://host:3306/database</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.vertica.jdbc.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-62</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>HP Vertica</name>
+        <url>jdbc:vertica://10.10.92.160:5433/VMart?user=uidbadmin123&amp;password=uidbadmin123</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.gjt.mm.mysql.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-6</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>MMMySQL Driver</name>
+        <url>jdbc:mysql://&lt;hostname&gt;[&lt;:3306&gt;]/&lt;dbname&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>mongodb.jdbc.MongoDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-63</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>MongoDB</name>
+        <url>jdbc:mongo://&lt;servername&gt;&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.postgresql.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-7</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>PostgreSQL</name>
+        <url>jdbc:postgresql:[&lt;//host&gt;[:&lt;5432&gt;/]]&lt;database&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.reliersoft.sforce.jdbc.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-64</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Salesforce</name>
+        <url>jdbc:sforce://login.salesforce.com</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.hsqldb.jdbcDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-20</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>HSQLDB for Embedded and In-Memory</name>
+        <url>jdbc:hsqldb.[mem|file|res]:&lt;db-name or filepath&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.sybase.jdbc2.jdbc.SybDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-8</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Sybase Adaptive Server Anywhere</name>
+        <url>jdbc:sybase:Tds:&lt;host&gt;:&lt;port&gt;?ServiceName=&lt;DBNAME&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.sqlite.JDBC</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-65</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>SQLLite</name>
+        <url>jdbc:sqlite:&lt;PathToSQLLiteDBFile&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.sap.dbtech.jdbc.DriverSapDB</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-21</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>SAPDB</name>
+        <url>jdbc:sapdb:[//host/]dbname[?name=value[&amp;name=value]*]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.sybase.jdbc2.jdbc.SybDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-9</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Sybase Adaptive Server Enterprise</name>
+        <url>jdbc:sybase:Tds:&lt;host&gt;:&lt;port&gt;/&lt;DBNAME&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.ddtek.jdbc.openedge.OpenEdgeDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-66</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>OpenEdge</name>
+        <url>jdbc:datadirect:openedge://&lt;host_name&gt;:&lt;port_number&gt;;databaseName=&lt;database_name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.progress.sql.jdbc.JdbcProgressDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-67</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Progress 9.1E and 10.0B</name>
+        <url>jdbc:JdbcProgress:T:&lt;host_name&gt;:&lt;port_number&gt;:&lt;database_name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.sas.rio.MVADriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-68</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>SAS</name>
+        <url>jdbc:sasiom://&lt;host_name&gt;:&lt;port_number&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>COM.ibm.db2.jdbc.app.DB2Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-24</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>IBM DB2 App Driver</name>
+        <url>jdbc:db2:&lt;dbname&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>net.sourceforge.jtds.jdbc.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-25</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>jTDS Microsoft SQL</name>
+        <url>jdbc:jtds:sqlserver://&lt;hostname&gt;[:&lt;1433&gt;]/&lt;dbname&gt;[;&lt;property&gt;=&lt;value&gt;[;...]]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName/>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-100 sx</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Generic JDBC</name>
+        <url>jdbc:&lt;dbms&gt;://host[:port]/&lt;database&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>net.sourceforge.jtds.jdbc.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-26</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>jTDS Sybase</name>
+        <url>jdbc:jtds:sybase://&lt;hostname&gt;[:&lt;4100&gt;]/&lt;dbname&gt;[;&lt;property&gt;=&lt;value&gt;[;...]]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.informix.jdbc.IfxDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-49</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Informix</name>
+        <url>jdbc:informix-sqli://&lt;host_name&gt;:&lt;port_number&gt;/&lt;database_name&gt;:INFORMIXSERVER=&lt;server_name&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.mysql.jdbc.Driver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-27</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>MySQL Driver</name>
+        <url>jdbc:mysql://&lt;hostname&gt;[,&lt;failoverhost&gt;][&lt;:3306&gt;]/&lt;dbname&gt;[?&lt;param1&gt;=&lt;value1&gt;][&amp;&lt;param2&gt;=&lt;value2&gt;]</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>org.firebirdsql.jdbc.FBDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-28</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>Firebird JayBird</name>
+        <url>jdbc:firebirdsql:[//host[:port]/]&lt;database&gt;</url>
+    </Bean>
+    <Bean Class="net.sourceforge.squirrel_sql.fw.sql.SQLDriver">
+        <driverClassName>com.intersys.jdbc.CacheDriver</driverClassName>
+        <identifier Class="net.sourceforge.squirrel_sql.fw.id.UidIdentifier">
+            <string>-29</string>
+        </identifier>
+        <jarFileName/>
+        <jarFileNames Indexed="true"/>
+        <name>InterSystems Cache</name>
+        <url>jdbc:Cache://&lt;host&gt;:&lt;1972&gt;/&lt;database&gt;</url>
+    </Bean>
+</Beans>

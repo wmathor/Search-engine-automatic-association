@@ -22,7 +22,6 @@
 
 .mouseOver {
 	background: #F2F2F2;
-	color: #FF4040;
 }
 
 .mouseOut {
@@ -76,22 +75,25 @@
 		clearContent();
 		setLocation();
 		//获取关联数据的长度,以此来确定生成的<tr>
-		var size = contents.length;
+		var size = Math.min(10, contents.length);
+		var textInput = document.getElementById("keyword");
 		//设置内容
 		for ( var i = 0; i < size; i++) {
 			var nextNode = contents[i];
 			var tr = document.createElement("tr");
 			var td = document.createElement("td");
-			td.setAttribute("border", "0");
+			td.setAttribute("border", "2");
 			td.setAttribute("bgcolor", "white");
 			td.onmouseover = function() {
 				this.className = 'mouseOver';
+				this.style.cursor = 'hand';
 			};
 			td.onmouseout = function() {
 				this.className = 'mouseOut';
 			};
 			td.onclick = function() {
-
+				textInput.value = this.innerText;
+				clearContent();
 			};
 			var text = document.createTextNode(nextNode);
 			td.appendChild(text);
@@ -109,11 +111,12 @@
 		document.getElementById("popdiv").style.border = "none";
 	}
 
+	
 	//输入框失去焦点 清空
 	function keywordBlur() {
 		clearContent();
 	}
-	//设置系那是关联信息
+	//设置关联信息
 	function setLocation() {
 		//关联信息的显示位置
 		var content = document.getElementById("keyword");
@@ -132,7 +135,7 @@
 </head>
 <body>
 	<div id="mydiv">
-		<input type="text" size="50" class="search" id="keyword" onkeyup="getMoreContents()" onblur="keywordBlur()" onfocus="getMoreContents()" />
+		<input type="text" size="50" class="search" id="keyword" onkeyup="getMoreContents()" onfocus="getMoreContents()" />
 
 		<%--内容展示区域--%>
 		<div id="popdiv">

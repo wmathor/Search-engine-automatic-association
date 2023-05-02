@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="com.genuitec.embedded.tomcat.runtime.v90" id-set\="true" location\="O\:/myeclipse/plugins/com.genuitec.eclipse.server.embedded.tomcat.v90.core_13.0.0.me202105191459/tomcat9046" name\="MyEclipse Tomcat v9.0" runtime-type-id\="com.genuitec.embedded.tomcat.runtime.v90" timestamp\="0"/>\r\n</runtimes>\r\n

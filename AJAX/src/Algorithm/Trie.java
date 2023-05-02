@@ -3,7 +3,7 @@ package Algorithm;
 import java.util.*;
 
 class Node {
-	public Map<String, Node> nexts; // 子节点
+	public Map<String, Node> nexts;
 	public int end;
 	public Node() {
 		this.nexts = new HashMap<String, Node>();

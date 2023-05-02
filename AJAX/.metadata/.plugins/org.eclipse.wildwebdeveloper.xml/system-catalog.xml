@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="public">
+<uri name="clientbnd.xmi" uri="file:/schemas/clientbnd.xmi"/>
+<system systemId="clientbnd.xmi" uri="file:/schemas/clientbnd.xmi"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 7.0 J2EE Application 1.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application_1_3-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 8.0 J2EE Application 1.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application_1_4-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 8.1 J2EE Application 1.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application_1_4-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 9.0 Java EE Application 5.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application_5_0-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 7.0 Application Client 1.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application-client_1_3-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 8.0 Application Client 1.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application-client_1_4-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 8.1 Application Client 1.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application-client_1_4-1.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 9.0 Application Client 5.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application-client_5_0-0.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 8.0 Application Client Container//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application-client-container_1_0.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 8.1 Application Client Container//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application-client-container_1_1.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 9.0 Application Client Container//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-application-client-container_1_2.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 7.0 CMP 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-cmp-mapping_1_0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 8.0 OR Mapping//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-cmp-mapping_1_1.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 8.1 OR Mapping//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-cmp-mapping_1_2.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 7.0 Connector 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-connector_1_0-0.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 8.0 Domain//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-domain_1_0.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 8.0 Domain//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-domain_1_1.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 8.0 Domain//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-domain_1_2.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 9.1 Domain//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-domain_1_3.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 7.0 EJB 2.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-ejb-jar_2_0-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 7.0 EJB 2.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-ejb-jar_2_0-1.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 8.0 EJB 2.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-ejb-jar_2_1-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 8.0 EJB 2.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-ejb-jar_2_1-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 9.0 EJB 3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-ejb-jar_3_0-0.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Sun Java System Web Server 6.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-loadbalancer_1_0.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Sun ONE Application Server 7.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-loadbalancer_1_1.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 8.0 Domain//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-resources_1_0.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Application Server 9.0 Domain//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-resources_1_2.dtd"/>
+<public publicId="-//Sun Microsystems Inc.//DTD Sun ONE Application Server 7.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-server_1_0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 7.0 Servlet 2.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-web-app_2_3-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 7.0 Servlet 2.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-web-app_2_3-1.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Sun ONE Application Server 8.0 Servlet 2.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-web-app_2_4-0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Application Server 8.1 Servlet 2.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/sun-web-app_2_4-1.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/facelet-taglib_1_0.dtd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/javaee_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/javaee_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/persistence_1_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/persistence/orm_1_0.xsd" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/orm_1_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/jax-ws/ri/runtime/" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/sun-jaxws.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/jax-ws/ri/runtime" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/sun-jaxws.xsd"/>
+<system systemId="http://research.sun.com/wadl/2006/10" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/wadl.xsd"/>
+<system systemId="http://www.bea.com/ns/weblogic/90/weblogic-web-app.xsd" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/weblogic-web-app.xsd"/>
+<system systemId="http://www.bea.com/ns/weblogic/90/weblogic-application.xsd" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/weblogic-application.xsd"/>
+<system systemId="http://www.bea.com/ns/weblogic/90/weblogic-j2ee.xsd" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/weblogic-j2ee.xsd"/>
+<system systemId="http://xml.apache.org/xml-soap/deployment" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-xsd/dd.xsd"/>
+<public publicId="-//W3C//DTD XMLSCHEMA 200102//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/XMLSchema.dtd"/>
+<public publicId="-//W3C//ENTITIES Special for XHTML//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/xhtml-special.ent"/>
+<public publicId="-//W3C//ENTITIES Symbols for XHTML//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/xhtml-symbol.ent"/>
+<public publicId="-//W3C//ENTITIES Latin 1 for XHTML//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/xhtml-lat1.ent"/>
+<public publicId="datatypes" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/datatypes.dtd"/>
+<public publicId="-//IBM Corporation, Inc.//DTD J2EE Web services 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/j2ee_web_services_1_0.dtd"/>
+<public publicId="-//IBM Corporation, Inc.//DTD J2EE Web services client 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/j2ee_web_services_client_1_0.dtd"/>
+<public publicId="-//Hibernate/Hibernate Mapping DTD 1.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/hibernate-mapping-1.1.dtd"/>
+<public publicId="-//Hibernate/Hibernate Mapping DTD 2.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/hibernate-mapping-2.0.dtd"/>
+<public publicId="-//Hibernate/Hibernate Configuration DTD 2.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/hibernate-configuration-2.0.dtd"/>
+<public publicId="-//Hibernate/Hibernate Mapping DTD 3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/hibernate-mapping-3.0.dtd"/>
+<public publicId="-//Hibernate/Hibernate Configuration DTD 3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/hibernate-configuration-3.0.dtd"/>
+<public publicId="-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/hibernate-reverse-engineering-3.0.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Commons Validator Rules Configuration 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/validator_1_0.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Commons Validator Rules Configuration 1.0.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/validator_1_0_1.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Commons Validator Rules Configuration 1.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/validator_1_1.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Commons Validator Rules Configuration 1.1.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/validator_1_1_3.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Commons Validator Rules Configuration 1.3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/validator_1_3_0.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Struts Configuration 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/struts-config_1_0.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Struts Configuration 1.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/struts-config_1_1.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Struts Configuration 1.2//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/struts-config_1_2.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Struts Configuration 1.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/struts-config_1_3.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/struts-2.1.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Struts Configuration 2.1.7//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/struts-2.1.7.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Tiles Configuration 1.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/tiles-config_1_1.dtd"/>
+<public publicId="-//Apache Software Foundation//DTD Tiles Configuration 1.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/tiles-config_1_3.dtd"/>
+<public publicId="-//Howard Lewis Ship//Tapestry Script 1.2//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/Tapestry-Script_1_2.dtd"/>
+<public publicId="-//BEA Systems, Inc.//DTD WebLogic 6.0.1 EJB//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/wls600_weblogic-ejb-jar.dtd"/>
+<public publicId="-//BEA Systems, Inc.//DTD WebLogic 7.0.0 EJB//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/wls700_weblogic-ejb-jar.dtd"/>
+<public publicId="-//BEA Systems, Inc.//DTD WebLogic 8.1.0 EJB//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/wls810_weblogic-ejb-jar.dtd"/>
+<public publicId="-//BEA Systems, Inc.//DTD Web Application 8.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/wls810_weblogic810-web-jar.dtd"/>
+<public publicId="-//BEA Systems, Inc.//DTD Web Application 7.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/wls700_weblogic700-web-jar.dtd"/>
+<public publicId="-//BEA Systems, Inc.//DTD Web Application 6.1//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/wls600_weblogic-web-jar.dtd"/>
+<public publicId="-//JBoss//DTD Web Application 2.2//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss-web_2_2.dtd"/>
+<public publicId="-//JBoss//DTD Web Application 2.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss-web_3_0.dtd"/>
+<public publicId="-//JBoss//DTD Web Application 2.3V2//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss-web_3_2.dtd"/>
+<public publicId="-//JBoss//DTD JBOSS 2.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss_2_4.dtd"/>
+<public publicId="-//JBoss//DTD JBOSS 3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss_3_0.dtd"/>
+<public publicId="-//JBoss//DTD JBOSS 3.2//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss_3_2.dtd"/>
+<public publicId="-//JBoss//DTD JBOSSCMP-JDBC 3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jbosscmp-jdbc_3_0.dtd"/>
+<public publicId="-//JBoss//DTD JBOSSCMP-JDBC 3.2//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jbosscmp-jdbc_3_2.dtd"/>
+<public publicId="-//JBoss//DTD JBOSS 4.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss_4_0.dtd"/>
+<public publicId="-//JBoss//DTD J2EE Application 1.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss-app_4_0.dtd"/>
+<public publicId="-//JBoss//DTD Application Client 4.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss-client_4_0.dtd"/>
+<public publicId="-//JBoss//DTD JBOSSCMP-JDBC 4.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jbosscmp-jdbc_4_0.dtd"/>
+<public publicId="-//JBoss//DTD Web Application 2.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jboss-web_4_0.dtd"/>
+<public publicId="-//JBoss//DTD JAWS 2.4//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jaws_2_4.dtd"/>
+<public publicId="-//JBoss//DTD JAWS 3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jaws_3_0.dtd"/>
+<public publicId="-//ObjectWeb//DTD JOnAS 3.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/jonas-ejb-jar_3_0.dtd"/>
+<public publicId="-//OpenSymphony Group//XWork 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/xwork-1.0.dtd"/>
+<public publicId="-//Evermind//DTD Enterprise JavaBeans 1.0 runtime//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/orion-ejb-jar.dtd"/>
+<public publicId="-//Evermind//DTD Enterprise JavaBeans 1.1 runtime//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/xmlns.oracle.orion-ejb-jar.dtd"/>
+<public publicId="-//Evermind//DTD Orion Web Application 2.3//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/xmlns.oracle.orion-ejb-jar.dtd"/>
+<public publicId="-//GetAhead Limited//DTD Direct Web Remoting 1.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.j2eedt.core_13.0.0.me202203031502/catalog-dtd/dwr10.dtd"/>
+<system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/81/0/.cp/catalog-xsd/maven-v4_0_0.xsd"/>
+<system systemId="http://maven.apache.org/maven-v3_0_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/81/0/.cp/catalog-xsd/maven-v3_0_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/portlet/portlet-app_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/104/0/.cp/catalog-xsd/portlet-app_1_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/104/0/.cp/catalog-xsd/portlet-app_2_0.xsd"/>
+<public publicId="-//SPRING//DTD BEAN//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.springframework_13.0.0.me202203141600/catalog-dtd/spring-beans.dtd"/>
+<public publicId="-//SPRING//DTD BEAN 2.0//EN" uri="file:///O:/myeclipse/plugins/com.genuitec.eclipse.springframework_13.0.0.me202203141600/catalog-dtd/spring-beans-2.0.dtd"/>
+<uri name="http://wadl.dev.java.net/2009/02" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/183/0/.cp/schema/wadl.xsd"/>
+<system systemId="http://wadl.dev.java.net/2009/02" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/183/0/.cp/schema/wadl.xsd"/>
+<uri name="http://research.sun.com/wadl/2006/10" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/183/0/.cp/schema/wadl20061109.xsd"/>
+<system systemId="http://research.sun.com/wadl/2006/10" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/183/0/.cp/schema/wadl20061109.xsd"/>
+<uri name="http://research.sun.com/wadl/2006/07" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/183/0/.cp/schema/wadl20060802.xsd"/>
+<system systemId="http://research.sun.com/wadl/2006/07" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/183/0/.cp/schema/wadl20060802.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_1_0.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_1_0.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_1_1.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_1_1.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_1_2.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_1_2.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_0.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_0.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_1.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_1.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_2.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_2.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_3.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_3.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_4.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_4.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_5.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_2_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_2_5.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_3_0.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_orm_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_orm_3_0.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_0.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_0.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_1.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_1.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_2.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_2.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_3.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_3.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_4.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_4.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_5.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_5.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_6.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_oxm_2_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_oxm_2_6.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_1.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1121/0/.cp/org/eclipse/persistence/eclipselink_persistence_map_1.0.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_1.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1121/0/.cp/org/eclipse/persistence/eclipselink_persistence_map_1.0.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_1.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_persistence_map_1.1.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_1.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_persistence_map_1.1.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_1.2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_persistence_map_1.2.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_1.2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_persistence_map_1.2.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_2.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_persistence_map_2.0.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_2.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_persistence_map_2.0.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_2.3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1121/0/.cp/org/eclipse/persistence/eclipselink_persistence_map_2.3.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_persistence_map_2.3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1121/0/.cp/org/eclipse/persistence/eclipselink_persistence_map_2.3.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_1.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_sessions_1.0.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_1.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_sessions_1.0.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_1.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_sessions_1.1.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_1.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_sessions_1.1.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_1.2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_sessions_1.2.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_1.2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_sessions_1.2.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_2.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_sessions_2.0.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_2.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/875/0/.cp/schemas/eclipselink_sessions_2.0.xsd"/>
+<uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_2.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1121/0/.cp/org/eclipse/persistence/eclipselink_sessions_2.1.xsd"/>
+<system systemId="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_2.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1121/0/.cp/org/eclipse/persistence/eclipselink_sessions_2.1.xsd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/942/0/.cp/dtd/facelet-taglib_1_0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD J2EE Application 1.2//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_1_2.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD J2EE Application 1.3//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_1_3.dtd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/application_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_1_4.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/application_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_1_4.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/application_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_1_4.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/application_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_1_4.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/application_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/application_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_5.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/application_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_5.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/application_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_5.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/application_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_6.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/application_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_6.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/application_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_6.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/application_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_6.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/application_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_7.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/application_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_7.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/application_8.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_8.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/application_8.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_8.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/application_9.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_9.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/application_9.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application_9.xsd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD J2EE Application Client 1.2//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_1_2.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD J2EE Application Client 1.3//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_1_3.dtd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/application-client_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_1_4.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/application-client_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_1_4.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/application-client_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_1_4.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/application-client_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_1_4.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/application-client_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/application-client_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_5.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/application-client_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_5.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/application-client_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_5.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/application-client_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_6.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/application-client_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_6.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/application-client_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_6.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/application-client_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_6.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/application-client_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_7.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/application-client_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_7.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/application-client_8.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_8.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/application-client_8.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_8.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_9.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/application-client_9.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/batchXML_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/batchXML_1_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/batchXML_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/batchXML_1_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/jobXML_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jobXML_1_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/jobXML_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jobXML_1_0.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jobXML_2_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jobXML_2_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/beans_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_1_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/beans_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_1_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/beans_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_1_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/beans_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_1_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/beans_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_1_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/beans_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_1_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/beans_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/beans_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_2_0.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_3_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/beans_3_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/jaxb/bindingschema_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/bindingschema_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/jaxb/bindingschema_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/bindingschema_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/jaxb/bindingschema_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/bindingschema_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/jaxb/bindingschema_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/bindingschema_2_0.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/bindingschema_3_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/bindingschema_3_0.xsd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Connector 1.0//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_0.dtd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/connector_1_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/connector_1_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_5.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/connector_1_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_5.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/connector_1_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_5.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/connector_1_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_6.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/connector_1_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_6.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/connector_1_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_6.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/connector_1_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_6.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/connector_1_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_7.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/connector_1_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_1_7.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/connector_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_2_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/connector_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/connector_2_0.xsd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Enterprise JavaBeans 1.1//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_1_1.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Enterprise JavaBeans 2.0//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_2_0.dtd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/ejb-jar_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_2_1.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/ejb-jar_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_2_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/ejb-jar_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_2_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/ejb-jar_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_2_1.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/ejb-jar_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/ejb-jar_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/ejb-jar_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_1.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/ejb-jar_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_3_2.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/ejb-jar_4_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_4_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/ejb-jar_4_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/ejb-jar_4_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_1_4.xsd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_1_4.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_1_4.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_1_4.xsd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/j2ee_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_1_4.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/j2ee_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_1_4.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/j2ee_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_1_4.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/j2ee_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_1_4.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/javaee_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/javaee_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_5.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_5.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_5.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/javaee_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_6.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/javaee_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_6.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_6.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_6.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_6.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_7.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_7.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_8.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_8.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_8.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_8.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/jakartaee_9.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jakartaee_9.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/jakartaee_9.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jakartaee_9.xsd"/>
+<uri name="http://www.ibm.com/webservices/xsd/j2ee_jaxrpc_mapping_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_jaxrpc_mapping_1_1.xsd"/>
+<system systemId="http://www.ibm.com/webservices/xsd/j2ee_jaxrpc_mapping_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_jaxrpc_mapping_1_1.xsd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/j2ee_jaxrpc_mapping_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_jaxrpc_mapping_1_1.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/j2ee_jaxrpc_mapping_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_jaxrpc_mapping_1_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/j2ee_jaxrpc_mapping_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_jaxrpc_mapping_1_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/j2ee_jaxrpc_mapping_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_jaxrpc_mapping_1_1.xsd"/>
+<uri name="http://www.ibm.com/webservices/xsd/j2ee_web_services_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_1_1.xsd"/>
+<system systemId="http://www.ibm.com/webservices/xsd/j2ee_web_services_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_1_1.xsd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/j2ee_web_services_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_1_1.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/j2ee_web_services_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_1_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/j2ee_web_services_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_1_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/j2ee_web_services_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_1_1.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/javaee_web_services_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_2.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/javaee_web_services_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_2.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_2.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/javaee_web_services_1_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_3.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/javaee_web_services_1_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_3.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_1_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_3.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_1_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_3.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_4.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_1_4.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/jakartaee_web_services_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jakartaee_web_services_2_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/jakartaee_web_services_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jakartaee_web_services_2_0.xsd"/>
+<uri name="http://www.ibm.com/webservices/xsd/j2ee_web_services_client_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_client_1_1.xsd"/>
+<system systemId="http://www.ibm.com/webservices/xsd/j2ee_web_services_client_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_client_1_1.xsd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/j2ee_web_services_client_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_client_1_1.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/j2ee_web_services_client_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_client_1_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/j2ee_web_services_client_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_client_1_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/j2ee_web_services_client_1_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/j2ee_web_services_client_1_1.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/javaee_web_services_client_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_2.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/javaee_web_services_client_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_2.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_client_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_client_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_2.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/javaee_web_services_client_1_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_3.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/javaee_web_services_client_1_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_3.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_client_1_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_3.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_client_1_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_3.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_client_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_4.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/javaee_web_services_client_1_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/javaee_web_services_client_1_4.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/jakartaee_web_services_client_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jakartaee_web_services_client_2_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/jakartaee_web_services_client_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jakartaee_web_services_client_2_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/jsp_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/jsp_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/jsp_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/jsp_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/jsp_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_1.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/jsp_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/jsp_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/jsp_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_1.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/jsp_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_2.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/jsp_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_2.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/jsp_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/jsp_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_2.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/jsp_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_3.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/jsp_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_2_3.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/jsp_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_3_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/jsp_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/jsp_3_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/permissions_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/permissions_7.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/permissions_7.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/permissions_7.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/permissions_9.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/permissions_9.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/permissions_9.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/permissions_9.xsd"/>
+<uri name="http://java.sun.com/xml/ns/persistence/orm_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_1_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/persistence/orm_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_1_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/persistence/orm_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_1_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/persistence/orm_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_1_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/persistence/orm_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/persistence/orm_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/persistence/orm_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/persistence/orm_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/persistence/orm_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_2_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/persistence/orm_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_2_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/persistence/orm_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_2_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/persistence/orm_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_2_2.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/persistence/orm_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_3_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/persistence/orm_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/orm_3_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_1_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_1_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/persistence/persistence_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_1_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/persistence/persistence_1_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_1_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/persistence/persistence_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/persistence/persistence_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_2_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_2_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_2_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_2_2.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_3_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/persistence_3_0.xsd"/>
+<uri name="http://www.jboss.org/xml/ns/javax/validation/configuration/validation-configuration-1.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-configuration-1.0.xsd"/>
+<system systemId="http://www.jboss.org/xml/ns/javax/validation/configuration/validation-configuration-1.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-configuration-1.0.xsd"/>
+<uri name="http://www.jboss.org/xml/ns/javax/validation/configuration/validation-configuration-1.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-configuration-1.1.xsd"/>
+<system systemId="http://www.jboss.org/xml/ns/javax/validation/configuration/validation-configuration-1.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-configuration-1.1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/validation/configuration/validation-configuration-2.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-configuration-2.0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/validation/configuration/validation-configuration-2.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-configuration-2.0.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-configuration-3.0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-configuration-3.0.xsd"/>
+<uri name="http://www.jboss.org/xml/ns/javax/validation/mapping/validation-mapping-1.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-mapping-1.0.xsd"/>
+<system systemId="http://www.jboss.org/xml/ns/javax/validation/mapping/validation-mapping-1.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-mapping-1.0.xsd"/>
+<uri name="http://www.jboss.org/xml/ns/javax/validation/mapping/validation-mapping-1.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-mapping-1.1.xsd"/>
+<system systemId="http://www.jboss.org/xml/ns/javax/validation/mapping/validation-mapping-1.1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-mapping-1.1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/validation/mapping/validation-mapping-2.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-mapping-2.0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/validation/mapping/validation-mapping-2.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-mapping-2.0.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/validation/validation-mapping-3.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-mapping-3.0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/validation/validation-mapping-3.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/validation-mapping-3.0.xsd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Web Application 2.2//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_2.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_3.dtd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_4.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_4.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/web-app_2_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_4.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/web-app_2_4.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_4.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_5.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-app_2_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_5.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-app_2_5.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_2_5.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_3_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_3_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_3_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_3_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_3_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_3_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_4_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_4_0.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_5_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-app_5_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-common_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_3_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-common_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_3_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-common_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_3_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-common_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_3_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-common_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_3_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-common_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_3_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-common_4_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_4_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-common_4_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_4_0.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/web-common_5_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_5_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/web-common_5_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-common_5_0.xsd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/facelet-taglib_1_0.dtd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facelettaglibrary_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facelettaglibrary_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_2_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_2_2.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_2_3.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_2_3.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/web-facelettaglibrary_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_3_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/web-facelettaglibrary_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facelettaglibrary_3_0.xsd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD JavaServer Faces Config 1.0//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_1_0.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD JavaServer Faces Config 1.1//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_1_1.dtd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facesconfig_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_1_2.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facesconfig_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_1_2.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_1_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_1_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_1_2.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facesconfig_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facesconfig_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd" uri="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd" uri="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_2_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_2_2.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_2_3.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_2_3.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/web-facesconfig_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_3_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/web-facesconfig_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesconfig_3_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facesuicomponent_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesuicomponent_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facesuicomponent_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesuicomponent_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-facesuicomponent_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesuicomponent_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-facesuicomponent_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-facesuicomponent_2_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-fragment_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_3_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-fragment_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_3_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-fragment_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_3_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-fragment_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_3_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-fragment_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_3_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-fragment_3_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_3_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-fragment_4_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_4_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-fragment_4_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_4_0.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/web-fragment_5_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_5_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/web-fragment_5_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-fragment_5_0.xsd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.1//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_1_1.dtd"/>
+<public publicId="-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_1_2.dtd"/>
+<uri name="http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_2_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_2_1.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_2_1.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-jsptaglibrary_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_2_1.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-jsptaglibrary_2_1.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_2_1.xsd"/>
+<uri name="https://jakarta.ee/xml/ns/jakartaee/web-jsptaglibrary_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_3_0.xsd"/>
+<system systemId="https://jakarta.ee/xml/ns/jakartaee/web-jsptaglibrary_3_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-jsptaglibrary_3_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-partialresponse_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-partialresponse_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-partialresponse_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-partialresponse_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-partialresponse_2_0.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-partialresponse_2_0.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-partialresponse_2_2.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_2.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-partialresponse_2_2.xsd"/>
+<uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-partialresponse_2_3.xsd"/>
+<system systemId="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_3.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/965/0/.cp/dtdsAndSchemas/web-partialresponse_2_3.xsd"/>
+<system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1022/0/.cp/xsd/maven-v4_0_0.xsd"/>
+<system systemId="http://maven.apache.org/xsd/maven-4.0.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1022/0/.cp/xsd/maven-v4_0_0.xsd"/>
+<system systemId="http://maven.apache.org/xsd/settings-1.0.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1022/0/.cp/xsd/settings-v1_0_0.xsd"/>
+<system systemId="http://maven.apache.org/xsd/profiles-1.0.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1022/0/.cp/xsd/profiles-v1_0_0.xsd"/>
+<system systemId="http://maven.apache.org/xsd/archetype-1.0.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1022/0/.cp/xsd/archetype-1.0.0.xsd"/>
+<system systemId="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1022/0/.cp/xsd/archetype-catalog-1.0.0.xsd"/>
+<system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1022/0/.cp/xsd/archetype-descriptor-1.0.0.xsd"/>
+<public publicId="-//WAPFORUM//DTD WML 1.1//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/wml11.dtd"/>
+<public publicId="-//W3C//DTD XHTML 1.0 Strict//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/xhtml1-strict.dtd"/>
+<public publicId="-//W3C//DTD XHTML 1.0 Transitional//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/xhtml1-transitional.dtd"/>
+<public publicId="-//W3C//DTD XHTML 1.0 Frameset//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/xhtml1-frameset.dtd"/>
+<public publicId="-//W3C//DTD XHTML Basic 1.0//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/xhtml-basic10-f.dtd"/>
+<public publicId="-//W3C//DTD XHTML 1.1//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/xhtml11-flat.dtd"/>
+<public publicId="-//WAPFORUM//DTD XHTML Mobile 1.0//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/xhtml-mobile10-flat.dtd"/>
+<public publicId="-//WAPFORUM//DTD WML 1.3//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/wml13.dtd"/>
+<public publicId="-//W3C//DTD HTML 4.01 Frameset//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/frameset.dtd"/>
+<public publicId="-//W3C//ENTITIES Latin 1//EN//HTML" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/HTMLlat1.ent"/>
+<public publicId="-//W3C//ENTITIES Special//EN//HTM" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/HTMLspecial.ent"/>
+<public publicId="-//W3C//ENTITIES Symbols//EN//HTML" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/HTMLsymbol.ent"/>
+<public publicId="-//W3C//DTD HTML 4.01 Transitional//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/loose.dtd"/>
+<public publicId="-//W3C//DTD HTML 4.01//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/strict.dtd"/>
+<uri name="http://schemas.xmlsoap.org/wsdl/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/wsdl.xsd"/>
+<uri name="http://schemas.xmlsoap.org/wsdl" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/wsdl.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/wsdl/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/wsdl.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/wsdl" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/wsdl.xsd"/>
+<uri name="http://schemas.xmlsoap.org/wsdl/soap/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soap.xsd"/>
+<uri name="http://schemas.xmlsoap.org/wsdl/soap" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soap.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/wsdl/soap/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soap.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/wsdl/soap" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soap.xsd"/>
+<uri name="http://schemas.xmlsoap.org/wsdl/http/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/http.xsd"/>
+<uri name="http://schemas.xmlsoap.org/wsdl/http" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/http.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/wsdl/http/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/http.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/wsdl/http" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/http.xsd"/>
+<uri name="http://schemas.xmlsoap.org/wsdl/mime/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/wsdl-mime.xsd"/>
+<uri name="http://schemas.xmlsoap.org/wsdl/mime" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/wsdl-mime.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/wsdl/mime/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/wsdl-mime.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/wsdl/mime" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/wsdl-mime.xsd"/>
+<uri name="http://schemas.xmlsoap.org/soap/encoding/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soapenc.xsd"/>
+<uri name="http://schemas.xmlsoap.org/soap/encoding" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soapenc.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/soap/encoding/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soapenc.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/soap/encoding" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soapenc.xsd"/>
+<uri name="http://schemas.xmlsoap.org/soap/envelope/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soapenv.xsd"/>
+<uri name="http://schemas.xmlsoap.org/soap/envelope" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soapenv.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/soap/envelope/" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soapenv.xsd"/>
+<system systemId="http://schemas.xmlsoap.org/soap/envelope" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/soapenv.xsd"/>
+<uri name="urn:oasis:names:tc:entity:xmlns:xml:catalog" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/xmlcatalog11.xsd"/>
+<system systemId="urn:oasis:names:tc:entity:xmlns:xml:catalog" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/xmlcatalog11.xsd"/>
+<uri name="http://www.w3.org/TR/html4/loose.dtd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/loose.dtd"/>
+<system systemId="http://www.w3.org/TR/html4/loose.dtd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/loose.dtd"/>
+<uri name="http://www.w3.org/TR/html4/strict.dtd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/strict.dtd"/>
+<system systemId="http://www.w3.org/TR/html4/strict.dtd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/dtds/strict.dtd"/>
+<uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/ws-securitypolicy-1.2.xsd"/>
+<system systemId="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/ws-securitypolicy-1.2.xsd"/>
+<uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/ws-securitypolicy.xsd"/>
+<system systemId="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/ws-securitypolicy.xsd"/>
+<uri name="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/xmldsig-core-schema.xsd"/>
+<system systemId="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1314/0/.cp/xsd/xmldsig-core-schema.xsd"/>
+<uri name="http://www.w3.org/2001/XMLSchema" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1362/0/.cp/cache/www.w3.org/2001/XMLSchema.xsd"/>
+<system systemId="http://www.w3.org/2001/XMLSchema" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1362/0/.cp/cache/www.w3.org/2001/XMLSchema.xsd"/>
+<system systemId="http://www.w3.org/2001/xml.xsd" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1362/0/.cp/cache/www.w3.org/2001/xml.xsd"/>
+<uri name="http://www.w3.org/2001/XInclude" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1350/0/.cp/xslt-schemas/xinclude.xsd"/>
+<system systemId="http://www.w3.org/2001/XInclude" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1350/0/.cp/xslt-schemas/xinclude.xsd"/>
+<public publicId="-//Red Hat, Inc.//DTD Meta 1.0//EN" uri="file:///O:/myeclipse/plugins/org.jboss.tools.common.model_3.17.0.v20210819-1425/schema/meta.dtd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facesconfig_1_2.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facesconfig_1_2.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facesconfig_1_2.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facesconfig_1_2.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facesconfig_2_0.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facesconfig_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facesconfig_2_0.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facesconfig_2_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facesconfig_2_1.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facesconfig_2_1.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facesconfig_2_1.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facesconfig_2_1.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/javaee_5.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/javaee_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/javaee_5.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/javaee_5.xsd"/>
+<uri name="javaee_5.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/javaee_5.xsd"/>
+<system systemId="javaee_5.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/javaee_5.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facelettaglibary_2_0.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facelettaglibrary_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facelettaglibary_2_0.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facelettaglibrary_2_0.xsd"/>
+<uri name="http://java.sun.com/xml/ns/javaee/web-facelettaglibrary_2_0.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facelettaglibrary_2_0.xsd"/>
+<system systemId="http://java.sun.com/xml/ns/javaee/web-facelettaglibrary_2_0.xsd" uri="file:///O:/myeclipse/plugins/org.jboss.tools.jst.web_3.10.0.v20210224-1041/catalog/web-facelettaglibrary_2_0.xsd"/>
+<public publicId="-//LOG4J//DTD LOG4J//EN" uri="file:///O:/myeclipse/configuration/org.eclipse.osgi/1587/0/.cp/dtd/log4j-1.2.dtd"/>
+</catalog>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Genuitec</title>
+	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.genuitec.com</link>
+	<description>Code anything from anywhere with anyone</description>
+	<lastBuildDate>Wed, 24 Aug 2022 15:06:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.genuitec.com/wp-content/uploads/2022/03/cropped-favicon-512-32x32.png</url>
+	<title>Genuitec</title>
+	<link>https://www.genuitec.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MyEclipse 2022.1 &#8211; Jakarta EE 9 and Vue in Eclipse + More!</title>
+		<link>https://www.genuitec.com/myeclipse-2022-1-jakarta-ee-9-and-vue-in-eclipse-more/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2022 19:28:29 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[In Product]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?page_id=679947</guid>
+
+					<description><![CDATA[MyEclipse 2022.1 is live with Jakarta EE 9 &#038; Vue support in Eclipse. Also, Apple Silicon and Java 17 support with integrated IDE live share]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 2022.1—Blazing Fast Content Assist &#038; Extensive Scalability</title>
+		<link>https://www.genuitec.com/codetogether-2022-1-blazing-fast-content-assist-extensive-scalability/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Tue, 25 Jan 2022 18:47:08 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<category><![CDATA[In Product]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=678189</guid>
+
+					<description><![CDATA[CodeTogether 2022.1—Enhancements to the core coding and collaboration experience, plus a new multi-server deployment option for on-premises!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CVE-2021-44228 and Genuitec</title>
+		<link>https://www.genuitec.com/cve-2021-44228-and-genuitec/</link>
+		
+		<dc:creator><![CDATA[timwebb]]></dc:creator>
+		<pubDate>Tue, 14 Dec 2021 15:56:05 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=677625</guid>
+
+					<description><![CDATA[An internal audit confirms Genuitec does not use log4j2 on our servers and is not impacted by the CVE-2021-44228 vulnerability.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 5.0.1—FIXES, Fixes, fixes</title>
+		<link>https://www.genuitec.com/codetogether-5-0-1-fixes-fixes-fixes/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Wed, 17 Nov 2021 15:44:35 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<category><![CDATA[In Product]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=677182</guid>
+
+					<description><![CDATA[CodeTogether 5.0.1 is a maintenance release with improvements to core areas like simultaneous typing and content assist.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 5 with Audio &#038; Video</title>
+		<link>https://www.genuitec.com/codetogether-5-with-audio-video/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 17:05:01 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<category><![CDATA[In Product]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=676823</guid>
+
+					<description><![CDATA[CodeTogether 5 now includes integrated communication tools including audio, video, screen sharing, text chat and polls.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 5 with Audio &#038; Video—Sneak Peek</title>
+		<link>https://www.genuitec.com/codetogether-5-with-audio-video-sneak-peek/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Wed, 20 Oct 2021 17:59:38 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=676692</guid>
+
+					<description><![CDATA[CodeTogether 5 with audio and video calling, text chat and screen sharing is coming soon! Here's a sneak peek.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 4.2—Write/Run Tests for TDD and Extreme Free Usage</title>
+		<link>https://www.genuitec.com/codetogether-4-2/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 19:56:44 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=676126</guid>
+
+					<description><![CDATA[CodeTogether 4.2 now available! Run remote unit tests and remote launches from the host. On-premises customers get a metrics dashboard.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 4.2 with Test Running—Sneak Peek</title>
+		<link>https://www.genuitec.com/codetogether-4-2-sneak-peek/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Fri, 03 Sep 2021 16:10:48 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=675787</guid>
+
+					<description><![CDATA[CodeTogether 4.2 with Test Running is coming soon! Here's a sneak peek.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 4.1.2—Summer Refresh</title>
+		<link>https://www.genuitec.com/codetogether-4-1-2/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Wed, 11 Aug 2021 16:03:50 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=675398</guid>
+
+					<description><![CDATA[CodeTogether 4.1.2 is now available with fixes for content assist and remote development in VS Code, support for Oracle IDCS and Keycloak as SSO providers, and other fixes in SSO support.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 4.1—Server Sharing, SAP ABAP Support &#038; Coding Enhancements</title>
+		<link>https://www.genuitec.com/codetogether-4-1/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Tue, 29 Jun 2021 18:50:41 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<category><![CDATA[In Product]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=674747</guid>
+
+					<description><![CDATA[CodeTogether 4.1 is now available! Server sharing, SAP ABAP support, rename refactoring, plus Open Symbol and Full File Content Search across all clients.  ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MyEclipse 2021.5.24—Refreshed and Refined!</title>
+		<link>https://www.genuitec.com/myeclipse-2021-5-24/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 14:32:22 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=674005</guid>
+
+					<description><![CDATA[MyEclipse 2021.5.24 is available and it's full of exciting enhancements! New &#038; improved editors, Java 15 &#038; 16 support, Tomcat 9 embedded server, new Spring tooling with Docker integration, Jakarta EE 9 support, Quarkus &#038; OpenShift tooling updates, Eclipse 2021-03, and more.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MyEclipse 2021 Sneak Peek—Awesome AF</title>
+		<link>https://www.genuitec.com/myeclipse-2021-sneak-peek/</link>
+		
+		<dc:creator><![CDATA[Aaron Lara]]></dc:creator>
+		<pubDate>Tue, 27 Apr 2021 15:26:31 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=673204</guid>
+
+					<description><![CDATA[MyEclipse 2021 is coming soon! Take a sneak peek at some of the awesome additional features (AF) coming your way.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 4.0—More Goodness for All, Especially Teams</title>
+		<link>https://www.genuitec.com/codetogether-4-0/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Tue, 23 Mar 2021 18:46:01 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<category><![CDATA[In Product]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=672249</guid>
+
+					<description><![CDATA[Now available in CodeTogether 4.0: call &#038; type hierarchies, Teams offering with write access terminals &#038; team-centric UX, single sign-on for On-Premises, and more!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SDC 2021.02—Updated JREs &#038; JDKs, Big Sur Support &#038; More</title>
+		<link>https://www.genuitec.com/sdc-2021-02/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Wed, 24 Feb 2021 18:02:29 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Secure Delivery Center]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=671816</guid>
+
+					<description><![CDATA[Secure Delivery Center 2021.02 is here with a number of exciting updates. For starters, you’ll get upgraded JREs and JDKs. Also included in this release: optimized memory consumption, the ability to notarize apps for compatibility with macOS Big Sur, and support for self-signed certificates. Read on for the details!]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeTogether 3.2—Shared Terminals are Here!</title>
+		<link>https://www.genuitec.com/codetogether-3-2/</link>
+		
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 16:18:43 +0000</pubDate>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[CodeTogether]]></category>
+		<category><![CDATA[In Product]]></category>
+		<guid isPermaLink="false">https://www.genuitec.com/?p=670894</guid>
+
+					<description><![CDATA[Now available in CodeTogether 3.2: read-only terminal support, better editor colors in Eclipse &#038; IntelliJ, an improved CodeTogether view and more!]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

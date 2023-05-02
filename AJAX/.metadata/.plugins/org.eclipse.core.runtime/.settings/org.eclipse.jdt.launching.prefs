@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1683017575651">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="com.azul.zulu.jdk162.win32.x86_64_1.16.2" name\="Java JDK VM 1.16.0_ Windows" path\="O\:\\myeclipse\\binary\\com.azul.zulu.jdk162.win32.x86_64_1.16.2"/>\r\n    </vmType>\r\n</vmSettings>\r\n

@@ -18,6 +18,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 </head>
 
 <body>
-	<% request.getRequestDispatcher("InitServlet").forward(request,response); %>
+	<% request.getRequestDispatcher("InitServlet").forward(request, response); %>
 </body>
 </html>
